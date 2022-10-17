@@ -1,0 +1,31 @@
+class carro:
+    str(modelo)
+    int(eixos)
+    float(preco)
+    def ligar():
+    def desligar():
+    def abastecer():
+
+class cartaoponto:
+    int(matricula)
+    str(nome)
+    int(setor)
+    def pontoentrada():
+    def pontosaida():
+    def horaextra():
+
+class viajar:
+    str(origem)
+    str(destino)
+    str(hospedagem)
+    def arrumarmalas
+    def iraeroporto
+    def embarcar
+        
+class estudar:
+    str(assunto)
+    int(tempo)
+    str(local)
+    def SepararMaterial
+    def pomodoro
+    def GuardarMaterial
