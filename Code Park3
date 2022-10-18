@@ -1,0 +1,11 @@
+Variáveis: Nome, CPF, RG, Altura e Endereço
+Nome: Caracter
+    CPF: Inteiro
+    RG: Inteiro
+    Altura: Real
+    Endereço: Conjunto de Caracteres
+Nome <- José Almeida da Silva
+    CPF <- 123456789000
+    RG <- 9517530
+    Altura <- 1,78
+    Endereço <- Rua A, 380 - Centro - Recife/PE
